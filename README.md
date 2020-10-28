@@ -4,7 +4,7 @@ Análise e classificação das condições de balneabilidade das praias do Rio G
 # Python para Visualização e Análise de Dados 
 > Professor: Carlos Artur Guimarães
 
-Integrantes :
+>Integrantes :
 > Alan Ribeiro
 > Allef Freitas 
 > Joseane Palhares
